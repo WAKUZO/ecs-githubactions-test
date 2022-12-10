@@ -16,7 +16,7 @@ env:
   WEBAPP_TAG: 1.0.0
   BACKEND_TAG: 1.0.0
   RESTAPI_TAG: 1.0.0
-  SLACK_WEBHOOK: https://hooks.slack.com/services/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
+  SLACK_WEBHOOK: https://hooks.slack.com/services/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
 
 
 jobs:
